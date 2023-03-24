@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "keebio")(type "Legacy")(uri "W:/home/jason/keyboards/jasonhazel/keebio.lib")(options "")(descr ""))
+)

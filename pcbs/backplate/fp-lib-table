@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "kurp")(type "KiCad")(uri "C:/keyboards/ortho_wings/pcbs/pcb")(options "")(descr ""))
+)
