@@ -12,6 +12,10 @@ Simple choc spaced ortholinear keyboard with OLED.
 
 | Description | Part | Count | Notes |
 | :---: | :---: | :---: | :---: |
+| PCBs | [Main](pcbs/pcb/jlcpcb/production_files) | 1 | |
+|| [Switchplate](pcbs/switchplate/jlcpcb/production_files) | 1 | Optional |
+|| [Backplate](pcbs/backplate/jlcpcb/production_files) | 1 | Optional |
+|| [Centerplate](pcbs/centerplate/jlcpcb/production_files) | 1 | Optional |
 | Controller | ProMicro footprint | 1 |  | 
 | Diodes | 1N4148 SOD-123  | 36 |  |
 | Switches | Choc v1 | 36 |  | 
@@ -20,7 +24,7 @@ Simple choc spaced ortholinear keyboard with OLED.
 | Display | SSD1306 | 1 | Optional |
 | | nice!view |  | ZMK Only |
 | Power Switch |  MSK-12C02 | 1 | Wireless Only | 
-| Battery Connector | TBD | 1 | Wireless Only | 
+| Battery Connector | TBD | 1 | Optional, Wireless Only | 
 | Battery | TBD | 1 | Wireless Only |
 
 ## SUPPORT
