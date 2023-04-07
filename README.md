@@ -1,12 +1,13 @@
 # Kurp
 ## 36 Key unibody split ortholinear
 
+![build](images/kurp.jpg)
+
+## PCB Render
 ![top](renders/kurp-top.png)
 ![bottom](renders/kurp-bottom.png)
 
-# UNVERIFIED PROTOTYPE
-
-Simple choc spaced ortholinear keyboard with OLED.
+Kurp is a choc-spaced unibody split ortholinear keyboard.
 
 ## Materials
 
@@ -18,10 +19,16 @@ Simple choc spaced ortholinear keyboard with OLED.
 | Keycaps | 1u | 36 | |
 | Reset | TL3342F260QG | 1 | |
 | Display | SSD1306 | 1 | Optional |
-| | nice!view |  | ZMK Only |
+| | nice!view |  | Wireless Only |
 | Power Switch |  MSK-12C02 | 1 | Wireless Only | 
 | Battery Connector | TBD | 1 | Wireless Only | 
 | Battery | TBD | 1 | Wireless Only |
+| 3mm M2 Standoff ||8||
+| 9mm M2 Standoff ||4||
+| 3mm M2 Screw ||24||
+
+## Firmware
+IN PROGRESS
 
 ## SUPPORT
 <a href='https://discord.gg/jP6hvgNN8r'>
