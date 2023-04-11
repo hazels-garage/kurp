@@ -395,7 +395,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 839b346b-f0d7-4d2a-a024-9f2c1ca4ec5c)
     )
-    (pad "" np_thru_hole oval (at 0 0 180) (size 11.16 3) (drill oval 11.16 3) (layers "F&B.Cu" "*.Mask") (tstamp 9fe53496-1169-458e-93a4-59adf4c3710d))
+    (pad "" np_thru_hole oval (at -1.38 0 180) (size 13.95 3) (drill oval 13.95 3) (layers "F&B.Cu" "*.Mask") (tstamp 9fe53496-1169-458e-93a4-59adf4c3710d))
     (model "W:/home/jason/keyboards/jasonhazel/jasonhazel-footprints/models/Pantalla OLED 0.96'' 128x64.stp"
       (offset (xyz 0 -12 8))
       (scale (xyz 1 1 1))
