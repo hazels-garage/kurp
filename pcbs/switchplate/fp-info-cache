@@ -1,4 +1,11 @@
-177034704001503
+207302253735944
+0-jasonhazel-footprints
+3JST_BAT
+
+
+0
+3
+2
 0-jasonhazel-footprints
 74HC595_SOIC-16_3.9x9.9mm_P1.27mm
 
@@ -34,6 +41,20 @@ connector JST SH top entry
 0
 8
 3
+0-jasonhazel-footprints
+CS_PIN
+
+
+0
+1
+1
+0-jasonhazel-footprints
+C_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
 0-jasonhazel-footprints
 Choc-hotswap
 Kailh "Choc" PG1350 keyswitch socket mount
@@ -105,12 +126,26 @@ SOD-123
 5
 2
 0-jasonhazel-footprints
+D_SOD-123_via
+SOD-123
+SOD-123
+0
+4
+2
+0-jasonhazel-footprints
 EVQWGD001
 
 
 0
 6
 6
+0-jasonhazel-footprints
+Elite-C
+
+
+0
+29
+29
 0-jasonhazel-footprints
 FPC-SMD_FPC05012-09200-.5mm-rev
 
@@ -147,6 +182,13 @@ Kailh-PG1425-X-Switch-revers
 4
 2
 0-jasonhazel-footprints
+Kailh_socket_MX
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+0-jasonhazel-footprints
 Kailh_socket_PG1350
 Kailh "Choc" PG1350 keyswitch socket mount
 kailh,choc
@@ -168,6 +210,13 @@ cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
 4
 4
 0-jasonhazel-footprints
+Molex-216990_GCT-USB45xx_HRO-TYPE-C-31-M-13x
+
+
+0
+20
+17
+0-jasonhazel-footprints
 MountingHole_2.2mm_M2
 Mounting Hole 2.2mm, no annular, M2
 mounting hole 2.2mm no annular m2
@@ -182,12 +231,33 @@ mounting hole 2.2mm m2
 9
 1
 0-jasonhazel-footprints
+MountingHole_2.2mm_M2_edgecut
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+0-jasonhazel-footprints
 MountingHole_3.2mm_M3
 Mounting Hole 3.2mm, no annular, M3
 mounting hole 3.2mm no annular m3
 0
 0
 0
+0-jasonhazel-footprints
+MountingHole_3.2mm_M3_edgecut
+Mounting Hole 3.2mm, M3
+mounting hole 3.2mm m3
+0
+1
+1
+0-jasonhazel-footprints
+MountingHole_3.2mm_M3_thinpad
+Mounting Hole 3.2mm, M3
+mounting hole 3.2mm m3
+0
+1
+1
 0-jasonhazel-footprints
 MountingHole_3.5mm
 Mounting Hole 3.5mm, no annular
@@ -364,6 +434,13 @@ SOIC SO
 16
 16
 0-jasonhazel-footprints
+SOT-23-6-routable
+SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+6
+6
+0-jasonhazel-footprints
 SPDT_C128955
 
 
@@ -386,6 +463,13 @@ SPST Tactile Switch
 2
 0-jasonhazel-footprints
 SW_SPST_TL3342_RESET
+Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
+SPST Tactile Switch
+0
+4
+2
+0-jasonhazel-footprints
+SW_SPST_TL3342_RESET2
 Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
 SPST Tactile Switch
 0
@@ -417,7 +501,7 @@ USB-C-12-Pin-MidMount
 
 
 0
-28
+16
 13
 0-jasonhazel-footprints
 USB_C_Receptacle_HRO_TYPE-C-31-M-12
@@ -440,6 +524,41 @@ XIAO-nRF52840-CENTER-HOLE
 0
 28
 14
+0-jasonhazel-footprints
+backplate_3JST_BAT
+
+
+0
+0
+0
+0-jasonhazel-footprints
+backplate_ArduinoProMicro
+
+
+0
+0
+0
+0-jasonhazel-footprints
+backplate_D_SOD-123
+SOD-123
+SOD-123
+0
+0
+0
+0-jasonhazel-footprints
+backplate_OLED-128x64
+
+
+0
+0
+0
+0-jasonhazel-footprints
+backplate_jh-choc
+Kailh "Choc" PG1350 keyswitch socket mount
+kailh,choc
+0
+0
+0
 0-jasonhazel-footprints
 bazooka-tooth
 
@@ -523,9 +642,16 @@ Kailh "Choc" PG1350 keyswitch socket mount
 kailh,choc
 0
 2
-0
+2
 0-jasonhazel-footprints
 jh-choc-nopin
+Kailh "Choc" PG1350 keyswitch socket mount
+kailh,choc
+0
+0
+0
+0-jasonhazel-footprints
+jh-choc-nopin-1.5
 Kailh "Choc" PG1350 keyswitch socket mount
 kailh,choc
 0
@@ -599,7 +725,7 @@ rotary_encoder
 
 
 0
-7
+6
 5
 0-jasonhazel-footprints
 rp2040-zero-facedown

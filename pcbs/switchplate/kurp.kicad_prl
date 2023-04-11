@@ -40,7 +40,6 @@
       8,
       9,
       10,
-      12,
       13,
       14,
       15,
@@ -67,11 +66,11 @@
       39,
       40
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "fffbf00_7ffffffe",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "ortho_wings.kicad_prl",
+    "filename": "kurp.kicad_prl",
     "version": 3
   },
   "project": {
