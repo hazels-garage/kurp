@@ -40,4 +40,6 @@ Kurp is a choc-spaced unibody split ortholinear keyboard.
 | 3mm M2 Screw ||24||
 
 ## Firmware
-QMK : https://github.com/jasonhazel/qmk_firmware/tree/hazel/kurp
+QMK : https://github.com/hazels-garage/qmk_firmware/tree/hazel/kurp
+
+ZMK: https://github.com/hazels-garage/zmk-kurp
